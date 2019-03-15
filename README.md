@@ -1,5 +1,5 @@
 # Keyboard-shortcuts
-Smart Keyboard shortcuts in AutoHotkey scripts makes typing faster and way more comfortable than standard Windows QWERTY-keyboards.
+Smart Keyboard shortcuts for Windows using AutoHotkey scripts - makes typing faster and way more comfortable than standard QWERTY-keyboards.
 
 How to "install" these shortcuts on your windows computer? 
 1. Install Autohotkey app: https://autohotkey.com/
