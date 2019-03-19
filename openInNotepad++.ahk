@@ -1,5 +1,5 @@
 ;This code presumes that notepad++.exe has been added to path in environment variables -> system variables
-F4::  ; F4 opens the marked file(s) in a Notepad++.
+F4::  ; F4 opens the marked file in a Notepad++.
 Clipboard =
 Send ^c
 ClipWait 1
